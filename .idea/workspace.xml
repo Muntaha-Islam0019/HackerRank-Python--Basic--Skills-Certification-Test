@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1f96cd1-e70d-4eb6-a68c-486dfa0c13a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 01/Problem 01/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 01/Problem 01/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 01/Problem 02/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 01/Problem 02/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section 01/Problem 01/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +20,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Section 01/Problem 01/code.py" />
+        <option value="$PROJECT_DIR$/Section 01/Problem 02/code.py" />
       </list>
     </option>
   </component>
@@ -63,6 +53,12 @@
               <item name="HackerRank Python (Basic) Skills Certification Test" type="462c0819:PsiDirectoryNode" />
               <item name="Section 01" type="462c0819:PsiDirectoryNode" />
               <item name="Problem 01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank Python (Basic) Skills Certification Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank Python (Basic) Skills Certification Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -101,7 +97,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
@@ -125,8 +120,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Section 01/Problem 01/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="1248">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 01/Problem 02/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="58" lean-forward="true" selection-end-line="37" />
         </state>
       </provider>
     </entry>
