@@ -1,17 +1,24 @@
 #!/bin/python3
 
-import math
 import os
-import random
-import re
-import sys
 
 
 class Car:
-    pass
+    def __init__(self, max_speed_car, unit):
+        self.max_speed_car = max_speed_car
+        self.unit = unit
+
+    def __str__(self):
+        return f'Car with the maximum speed of {self.max_speed_car} {self.unit}'
+
 
 class Boat:
-    pass
+    def __init__(self, max_speed_boat):
+        self.max_speed_boat = max_speed_boat
+
+    def __str__(self):
+        return f'Boat with the maximum speed of {self.max_speed_boat} knots'
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
